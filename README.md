@@ -5,7 +5,7 @@ This repository is designed as a case study for the implementation of an Intelli
 
 ## Table of Contents
 
-1. [Dataset](#dataset)
+1. [Feature Dataset](#feature-dataset)
 2. [Model Selection and Training](#model-selection-and-training)
 3. [Evaluation](#evaluation)
 4. [Contact](#contact)
@@ -13,7 +13,7 @@ This repository is designed as a case study for the implementation of an Intelli
 
 ## Dataset
 
-The **dataset** used in this study is hosted on Google Drive and can be accessed through the following link:
+The ** feature dataset** used in this study is hosted on Google Drive and can be accessed through the following link:
 
 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1VBfK-1mJI8zpqEfmzp2ShcD2eo5YYMVU?usp=sharing)
 
