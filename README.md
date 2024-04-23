@@ -13,7 +13,7 @@ This repository is designed as a case study for the implementation of an Intelli
 
 ## Dataset
 
-The ** feature dataset** used in this study is hosted on Google Drive and can be accessed through the following link:
+The **feature dataset** used in this study is hosted on Google Drive and can be accessed through the following link:
 
 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1VBfK-1mJI8zpqEfmzp2ShcD2eo5YYMVU?usp=sharing)
 
