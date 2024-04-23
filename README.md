@@ -22,14 +22,14 @@ Please ensure you comply with the terms of use and citation requirements as desc
 
 ## Model Selection and Training 
 
-This repository contains Jupyter Notebook scripts for each of the six machine learning models. To execute the ML models, please navigate to the **ML Models** folder. These notebooks are designed to be run in Google Colab, which provides a powerful and interactive cloud-based environment equipped with GPU support to facilitate the training process. Simply open the desired model notebook in Colab and follow the instructions to initiate the training step.
+This repository contains Jupyter Notebook scripts for each of the six machine learning models. To execute the ML models, please navigate to the **ML Models scripts** folder at the following link: [Download model scripts from Google Drive](https://drive.google.com/drive/folders/1MI4qYO5oBwc_4jgWpmZqXoRaPakzwLTZ?usp=drive_link). These notebooks are designed to be run in Google Colab, which provides a powerful and interactive cloud-based environment equipped with GPU support to facilitate the training process. Simply open the desired model notebook in Colab and follow the instructions to initiate the training step.
 
 ## Evaluation
 
 Upon completion of the training phase, our experiments allowed for the evaluation of the six ML model's performance via the included test dataset. This step was essential for verify the model's proficiency in accurately classifying organoid images.
 
 The weights of the trained ML models are an essential part of the evaluation process and allow us to replicate our results. 
-We have hosted the weights on Google Drive. You can download, after an formal e-mail request, the **ML models weights** from the following link: [Download model weights from Google Drive](https://drive.google.com/drive/folders/16fpBoQN1SpueBAWhNcDRJqX526eU-W3k?usp=sharing). Please ensure you comply with any terms of use associated with the data and cite the appropriate paper references when using these weights in your work.  
+We have hosted the weights on Google Drive. You can download, after an formal e-mail request, the **ML models weights** from the following link: [Download model weights from Google Drive](https://drive.google.com/drive/folders/1YCkYvgs4ZRPiwnvq89Uov5p-YTf3S3Y4?usp=drive_link). Please ensure you comply with any terms of use associated with the data and cite the appropriate paper references when using these weights in your work.  
   
 
 ## Contact
